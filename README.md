@@ -12,4 +12,4 @@
 Шаги воспроизведения 
   Открыть cmd 
   Перейти в директорию с файлом test_triangle.py
-  Запустить команду pytest test_triangle.py --html=report.html
+  Запустить в cmd команду pytest test_triangle.py --html=report.html
