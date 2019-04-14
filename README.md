@@ -4,8 +4,8 @@
 * Windows 7, 8, 8.1, 10. 
 * Python 3.7.(*).
 * JetBrains PyCharm 2019.1.1.
-* Selenium WebDriver 3.9.(*).
-* Chromedriver 74.0.(*).(*).
+* Selenium WebDriver 3.9...
+* Chromedriver 74.0...
 * Библиотека Pytest.
 * Плагин Pytest-html.
 * Поместить файл test_triangle.py в директорию на локальном компьютере.
